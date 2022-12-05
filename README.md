@@ -3,7 +3,7 @@
 **HCI project progress week 9 milestone**
 <br>
 <br>
-**Group** : The Santos
+**Group name** : The Santos
 <br>
 <br>
 **Group members**:
