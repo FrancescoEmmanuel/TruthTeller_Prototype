@@ -1,1 +1,15 @@
-# TruthTeller_Prototype
+# Truth Teller Prototype
+
+**HCI project progress week 9 milestone**
+<br>
+<br>
+**Group** : The Santos
+<br>
+<br>
+**Group members**:
+<br> Francesco Emmanuel Setiawan (2602209620)
+<br>Nicholas Santo Agnus Dei (2602174415)
+<br> Ivandito Rakaputra (2602119303)
+<br>
+<br>
+Github live link: https://francescoemmanuel.github.io/TruthTeller_Prototype/
