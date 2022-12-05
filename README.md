@@ -1,4 +1,4 @@
-# Truth Teller Prototype
+# Truth Teller website prototype
 
 **HCI project progress week 9 milestone**
 <br>
@@ -12,4 +12,4 @@
 <br> Ivandito Rakaputra (2602119303)
 <br>
 <br>
-Github live link: https://francescoemmanuel.github.io/TruthTeller_Prototype/
+Github live link to the website: https://francescoemmanuel.github.io/TruthTeller_Prototype/
